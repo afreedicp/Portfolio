@@ -13,12 +13,9 @@
 .button-container {
   text-align: center;
 }
-.button-container h1 {
-  text-align: left;
-}
 
-.button-container h1 {
-  margin-left: 30%;
+ h1 {
+
   margin-top: 7%;
   margin-bottom: 3vw;
 }
