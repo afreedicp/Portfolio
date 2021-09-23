@@ -1,10 +1,9 @@
-import React,{useState} from "react";
+import React from "react";
 import "./Skills.css";
 import { a, b, c, d, e } from "../utils/datas.js";
 
 function Skills() {
-  const [tag, settag] = useState("all");
-  tag==="all"?console.log("working"):console.log("not working")
+ 
    const portfolio = (x) => {
     return (
       <div className="full-portfolio">
