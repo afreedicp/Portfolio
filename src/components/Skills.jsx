@@ -37,7 +37,7 @@ function Skills() {
 
 
   return (
-    <section id="/Skills">
+    
     <div className="skills-container">
       <div className="button-container">
         <button className="btn btn-outline-success" >All</button>
@@ -45,17 +45,18 @@ function Skills() {
         <button className="btn btn-outline-success" >JavaScript</button>
         <button className="btn btn-outline-success">HTML</button>
         <button className="btn btn-outline-success">CSS</button>
-        <h1>Portfolio</h1>
+        
       </div>
-      
+      <section id="/Skills">
+      <h1>Portfolio</h1>
       {portfolio(e)}
       {portfolio(b)}
       {portfolio(a)}
       {portfolio(c)}
       {portfolio(d)}
-      
+      </section>
     </div>
-    </section>
+    
   );
   
 }
