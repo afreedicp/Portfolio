@@ -1,0 +1,10 @@
+.contact {
+  text-align: center;
+
+  color: rgb(54, 129, 100);
+  margin-bottom: 8%;
+  flex-direction: column;
+}
+.contact h5 {
+  margin-top: 2%;
+}

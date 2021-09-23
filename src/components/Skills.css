@@ -1,0 +1,68 @@
+.skills-container {
+  align-items: center;
+
+  justify-content: center;
+}
+.full-portfolio {
+  align-items: center;
+  /* margin-bottom: 10px; */
+  flex: 1;
+  justify-content: center;
+  display: flex;
+}
+.button-container {
+  text-align: center;
+}
+.button-container h1 {
+  text-align: left;
+}
+
+.button-container h1 {
+  margin-left: 30%;
+  margin-top: 7%;
+  margin-bottom: 3vw;
+}
+.portfolio-container {
+  margin-left: 10%;
+  margin-bottom: 4vw;
+  /* position: relative;
+  justify-content: left; */
+  flex: 1;
+}
+
+.aboutProject {
+  /* max-width: 50%; */
+  font-family: Arial, Helvetica, sans-serif;
+  display: block;
+  flex-direction: column;
+  position: relative;
+  /* left: 50%; */
+  flex: 1;
+  margin-left: 20px;
+
+  align-items: center;
+  justify-content: center;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.aboutProject button {
+  margin-bottom: 10vh;
+}
+.btn {
+  align-items: center;
+  margin-left: 2vw;
+  width: 13vw;
+  justify-content: center;
+  display: inline;
+  flex-direction: column;
+}
+.Portfolio a img {
+  width: 35vw;
+  height: 30vw;
+}
+.vline {
+  border-left: 1px solid rgb(165, 165, 165);
+  height: 500px;
+}

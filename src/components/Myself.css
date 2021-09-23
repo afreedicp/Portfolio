@@ -1,0 +1,44 @@
+.profile-img {
+  margin-top: 6vw;
+  position: absolute;
+  justify-content: left;
+  display: flex;
+  margin-left: 5vw;
+  margin-top: -4px;
+
+  width: 15vw;
+  height: 20vw;
+}
+.img-container {
+  margin-top: -2%;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: start;
+  flex-direction: column;
+  justify-content: center;
+
+  object-fit: contain;
+}
+.about-me {
+  max-width: 60%;
+  font-family: Arial, Helvetica, sans-serif;
+  justify-content: center;
+  display: block;
+  flex-direction: column;
+  position: relative;
+  left: 30%;
+}
+.about-me h1 {
+  display: block;
+  justify-content: center;
+  font-variant: small-caps;
+}
+.heading {
+  margin-bottom: 5vw;
+}
+.about-me h5 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  font-variant-ligatures: historical-ligatures;
+}
