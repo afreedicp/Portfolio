@@ -40,12 +40,12 @@ export const d = {
 export const e = {
   id:"react",
   // url: "https://maptyjavas.netlify.app/",
-  url2: "https://github.com/afreedicp/MYPORTFOLIO",
+  url2: "https://github.com/afreedicp/Portfolio",
   image1: "img/page 2.png",
-  p1: `• A exercising App For seting up time and date for work out `,
-  p2: `• Using Leaflet library to view the map`,
-  p3: `• Geo loacation API`,
-  p4: `• Managing workout data`,
+  p1: `• A personal website/Portfolio `,
+  p2: `• Showcasing skills,intrests, education qualification`,
+  p3: `• Using Reactjs`,
+  p4: `• bootstraps,React-scroll etc`,
 };
 
 export const java = {
