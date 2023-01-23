@@ -14,8 +14,7 @@
   text-align: center;
 }
 
- h1 {
-
+h1 {
   margin-top: 7%;
   margin-bottom: 3vw;
 }
@@ -62,4 +61,11 @@ a {
 .vline {
   border-left: 1px solid rgb(165, 165, 165);
   height: 500px;
+}
+.Experiance {
+  padding-left: 20%;
+}
+.Role {
+  color: rgb(165, 107, 204);
+  padding: 30px 30px 30px 300px;
 }
