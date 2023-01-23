@@ -1,30 +1,28 @@
-import React from "react";
-import "./Myself.css";
+import React from 'react';
+import './Myself.css';
 
 function Myself() {
   return (
-    <section  id="/Myself">
-    <div className="img-container">
-      <img src="img/me.jpg" className="profile-img" alt=""></img>
-      <div className="about-me">
-        <h1 className="heading"> About me </h1>
+    <section id='/Myself'>
+      <div className='img-container'>
+        <img src='img/user.jpeg' className='profile-img' alt=''></img>
+        <div className='about-me'>
+          <h1 className='heading'> About me </h1>
 
-        <h5>
-          My name is Muhammed Hassan Afreedi, a fresher Software Engneer based
-          in india
-        </h5>
-        <p>
-          <br />
-          i am a hardcore gamer who fell in love with art, designs and
-          animations from the begining, I've been passionate about building
-          applications that solve real world problems by applying new and
-          exciting technologies.
-          <br />
-          My latest experience has been focused on building single-page
-          applications with JavaScript,
-        </p>
+          <h5>Muhammed Hassan Afreedi,</h5>
+          <p>
+            Full stack developer with proficiency in front-end technologies.
+            Graduated from Sir Syed Institute of Technical Studies with a
+            Bachelor’s Degree in Computer Science. Experience in interacting and
+            communicating with people from different backgrounds, highlighting
+            teamwork and problem-solving. Experience in Analysis, Design, and
+            Development. Experience in Web App with Reactjs and Express Js.
+            Extensive programming skills in JavaScript. Fast switching between
+            technologies.
+            <br />
+          </p>
+        </div>
       </div>
-    </div>
     </section>
   );
 }

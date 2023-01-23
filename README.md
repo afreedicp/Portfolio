@@ -1,3 +1,9 @@
+![](https://i.imgur.com/waxVImv.png)
+
+### [Live Demo](https://afreedi-portfolio.netlify.app/)
+
+![](https://i.imgur.com/waxVImv.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
